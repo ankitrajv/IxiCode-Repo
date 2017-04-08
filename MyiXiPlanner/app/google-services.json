@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "868755178954",
+    "project_id": "myixiplanner"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868755178954:android:619e9cd9fd11a9c4",
+        "android_client_info": {
+          "package_name": "com.example.ankit.myixiplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868755178954-iu5ulc6lq3fvolac2hlomh927qi6is6s.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "868755178954-uv28a10gda5hvfrlp6p9c3k40lj0727p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ankit.myixiplanner",
+            "certificate_hash": "02428076721a08a219b4a11238d464dc0ef8a86c"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDROyQP7OWaerd7KRNkvRldyaXkhbtsaZQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
